@@ -1,0 +1,13 @@
+************************SNS******************************
+SIMPLE NOTIFICATION SERVICE .........>NOTIFY THE SERVICE RELATED INFORMATION TO THE 
+SUBSCRIBER 
+*******************
++++++++SUBSCRIBER (YOU -END USERS ).........
+.......PROTOCOL (EMIAL=EMAIL I.D  , SMS=PHONE NUMBER  )......
+
+****TOPIC (CREATE TOPIC = WHICH SERVICE IS TO BE NOTIFIED )*******
+*************select the protocol ......> email ......> give you email i.d
+.....................>from the email ....click on confirm subscription ......=subscriber
+will be confirmed in aws poral ..................................>
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
