@@ -1,0 +1,24 @@
+ami (amazon machine image ).................>image (pre configured set of the o.s
+& application s/w which is used to create virtual machine =ec2 servers)
+
+.....................................................
+amazon linux , windows , ubuntu .......ami (o.s )
+..............................................................
+
+backup of virual server (ec2).........[IMAGE]
+*IMAGE =====template of the previous configured ec2 server
+===========================================================
+1. ec2 machine crete 
+2. connect ec2 machine
+3.add some files inside the server machine.......CREATE WEB PAGE , EBS VOLYUME
+4. use backup feature =IMAGE (CREATE IMAGE )
+5.DELTE THE EC2 INSTANCE
+6.(PREVIOUS P/W OF EC2 SERVER = NOTE )......>
+7. connect the newly created server with the same p/w as of the terminated machine ....
+so that data files should be present in new machine .
+
+=========================================================================
+
+
+
+CaERuE3@Ez8BM0QnYHr.QC@(A8x&4KI@
